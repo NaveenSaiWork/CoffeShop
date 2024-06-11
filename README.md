@@ -1,5 +1,5 @@
 **Coffee Shop Mobile App**
-**Introduction**
+
 This Coffee Shop Mobile App is developed using React Native, designed to offer a user-friendly experience with a focus on smooth animations and an intuitive UI. The app includes various screens such as Home, Details, and Cart screens. This initial version prioritizes reusability, scalability, and ease of maintenance.
 
 **Features**
